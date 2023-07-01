@@ -9,7 +9,7 @@ nav_order: 1
 
 Since 2021, I am a PhD student at [Laboratoire Jacques Louis Lions](https://www.ljll.math.upmc.fr/fr/?lang=fr) in Sorbonne Université, under the supervision of [Bruno Després](https://www.ljll.math.upmc.fr/despres/) (Sorbonne Université) and Christophe Buet (CEA). 
 
-My main interest are the mathematical and numerical analysis of partial differential equations, with emphasis on kinetic theory and fluid mechanic. In my thesis, I am interested in coupled kinetic-fluid systems, with emphasis on the so-called "thick sprays equations", describing particles evolving in interaction with an underlying gas.
+My main interests are the mathematical and numerical analysis of partial differential equations, with emphasis on kinetic theory and fluid mechanic. In my thesis, I am interested in coupled kinetic-fluid systems describing particles evolving in interaction with an underlying gas, with particular interest in the "thick sprays" regime. 
 
 **Papers and Preprints:**
 
