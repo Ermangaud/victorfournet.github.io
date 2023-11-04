@@ -15,8 +15,7 @@ My main interests are the mathematical and numerical analysis of partial differe
 
 
 - **Local-in-time existence of strong solutions to an averaged thick sprays model** - with [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and Christophe Buet, *Accepted for publication in Kinetic and Related models*, [hal-03881187v2](https://hal.science/hal-03881187), Submitted
-- **
-Analog of Linear Landau Damping in a coupled Vlasov-Euler system for thick sprays** - with [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and Christophe Buet, [hal-04265990](https://hal.science/hal-04265990v1)
+- **Analog of Linear Landau Damping in a coupled Vlasov-Euler system for thick sprays** - with [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and Christophe Buet, [hal-04265990](https://hal.science/hal-04265990v1)∏
 
 <div class="publications">
 
