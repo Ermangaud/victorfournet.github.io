@@ -26,6 +26,7 @@ My main interests are the mathematical and numerical analysis of partial differe
 
 **Talks:**
 
+- November 2023 **PhD student's seminar**, Sorbonne Université
 - November 2023 **Numkin 2023**, Garching, Germany
 - September 2023 **Conference for young researcher in Mathematics and Applications 2023**, Gif-sur-Yvette, France
 - May 2023 - **SMAI 2023**, Pointe à Pitre, Guadeloupe.
