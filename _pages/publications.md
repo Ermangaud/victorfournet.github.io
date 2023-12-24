@@ -14,8 +14,8 @@ My main interests are the mathematical and numerical analysis of partial differe
 **Papers and Preprints:**
 
 
-- **Local-in-time existence of strong solutions to an averaged thick sprays model** - with [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and Christophe Buet, *Accepted for publication in Kinetic and Related models*, [hal-03881187v2](https://hal.science/hal-03881187), Submitted
-- **Analog of Linear Landau Damping in a coupled Vlasov-Euler system for thick sprays** - with [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and Christophe Buet, [hal-04265990](https://hal.science/hal-04265990v1)∏
+- **Local-in-time existence of strong solutions to an averaged thick sprays model** - with [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and Christophe Buet, *Accepted for publication in Kinetic and Related models*, [hal-03881187v2](https://hal.science/hal-03881187)
+- **Analog of Linear Landau Damping in a coupled Vlasov-Euler system for thick sprays** - with [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and Christophe Buet, [hal-04265990](https://hal.science/hal-04265990v1)
 
 <div class="publications">
 
@@ -26,6 +26,8 @@ My main interests are the mathematical and numerical analysis of partial differe
 
 **Talks:**
 
-- May 2023 - **SMAI 2023**, Guadeloupe.
+- November 2023 **Numkin 2023**, Garching, Germany
+- September 2023 **Conference for young researcher in Mathematics and Applications 2023**, Gif-sur-Yvette, France
+- May 2023 - **SMAI 2023**, Pointe à Pitre, Guadeloupe.
 - December 2022 - **Workshop Kinetic and hyperbolic equations: modeling, analysis and numerics**, Institut de Mathématiques de Toulouse, Toulouse, France. 
 - June 2022 - **CANUM** (Poster), Evian les Bains, France
