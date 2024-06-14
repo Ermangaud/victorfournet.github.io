@@ -13,9 +13,12 @@ My main interests are the mathematical and numerical analysis of partial differe
 
 **Papers and Preprints:**
 
+- **Construction, analysis and implementation of two nodal finite volume schemes for the P_N
+model for particle transport in 2D** - with Christophe Buet and Stéphane Del Pino. *Preprint 2024*. [HAL version](https://cea.hal.science/cea-04519862). Submitted
 
-- [**Local-in-time existence of strong solutions to an averaged thick sprays model**](https://www.aimsciences.org/article/doi/10.3934/krm.2023034) - with [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and Christophe Buet, *Kinetic and Related models*, 17(4): 606-633, 2024, [HAL version].(https://hal.science/hal-03881187)
-- **Analog of Linear Landau Damping in a coupled Vlasov-Euler system for thick sprays** - with [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and Christophe Buet, [hal-04265990](https://hal.science/hal-04265990v1)
+- **Analog of Linear Landau Damping in a coupled Vlasov-Euler system for thick sprays** - with [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and Christophe Buet. *Accepted for publication in Communications in Mathematical Sciences*, [HAL version](https://hal.science/hal-04265990v1).
+- [**Local-in-time existence of strong solutions to an averaged thick sprays model**](https://www.aimsciences.org/article/doi/10.3934/krm.2023034) - with [Bruno Després](https://www.ljll.math.upmc.fr/despres/) and Christophe Buet, *Kinetic and Related models*, 17(4): 606-633, 2024, [HAL version](https://hal.science/hal-03881187).
+
 
 <div class="publications">
 
@@ -23,7 +26,10 @@ My main interests are the mathematical and numerical analysis of partial differe
 
 </div>
 
+**Proceedings**
 
+- **Investigation on the stability in a thick spray model**. *Accepted for publication in ESAIM: proceedings and surveys,* 2024. [HAL version](https://hal.science/hal-04586793). 
+ 
 **Talks:**
 
 - November 2023 **PhD student's seminar**, Sorbonne Université
