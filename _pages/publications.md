@@ -26,7 +26,7 @@ model for particle transport in 2D** - with Christophe Buet and Stéphane Del Pi
 
 </div>
 
-**Proceedings**
+**Proceedings:**
 
 - **Investigation on the stability in a thick spray model**. *Accepted for publication in ESAIM: proceedings and surveys,* 2024. [HAL version](https://hal.science/hal-04586793). 
  
