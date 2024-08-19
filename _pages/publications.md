@@ -32,6 +32,8 @@ model for particle transport in 2D** - with Christophe Buet and Stéphane Del Pi
  
 **Talks:**
 
+- June 2024 **NMPP Seminar**, Max Planck Institute for Plasma Physics, Garching, Germany.
+- June 2024 **RGD 2024**, Gottingen, Germany.
 - May 2024 **CANUM 2024**, Le bois plage en Ré.
 - November 2023 **PhD student's seminar**, Sorbonne Université.
 - November 2023 **Numkin 2023**,Max Planck Institute for Plasma Physics, Garching, Germany.
