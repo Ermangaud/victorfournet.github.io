@@ -19,9 +19,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in mathematics at [Laboratoire Jacques Louis Lions](https://www.ljll.math.upmc.fr/fr/?lang=fr) (Sorbonne Université) in Paris under the supervision of [Bruno Després](https://www.ljll.math.upmc.fr/despres/) (Sorbonne Université) and Christophe Buet (CEA). I am interested in the mathematical and numerical analysis of partial differential equations, with special interest in equations coming from statistical mechanics and fluid mechanics.
+I am a post-doctoral researcher at[Max Planck Institute for Plasma Physics](https://www.ipp.mpg.de/12411/garching) in Garching under the supervision of Martin Campos Pinto. I am working in the field of mathematical and numerical analysis of partial differential equations, with special interest in equations coming from statistical mechanics and fluid mechanics.
 
-E-mail: victor.fournet(at)sorbonne-universite.fr
+I did my PhD at [Laboratoire Jacques Louis Lions](https://www.ljll.math.upmc.fr/fr/?lang=fr) (Sorbonne Université) in Paris under the supervision of [Bruno Després](https://www.ljll.math.upmc.fr/despres/) (Sorbonne Université) and Christophe Buet (CEA).
+
+E-mail: victor.fournet(at)ipp.mpg.de
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
