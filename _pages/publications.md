@@ -46,4 +46,4 @@ model for particle transport in 2D** - with Christophe Buet and Stéphane Del Pi
 
 **PhD Thesis**
 
-I defended my thesis on the 22th January 2025, entitled "Mathematical and numerical etudy of thick spray models". I did my PhD  at [Laboratoire Jacques Louis Lions](https://www.ljll.math.upmc.fr/fr/?lang=fr) (Sorbonne Université) in Paris under the supervision of [Bruno Després](https://www.ljll.math.upmc.fr/despres/) (Sorbonne Université) and Christophe Buet (CEA). 
+I defended my thesis on the 22th January 2025, entitled "Mathematical and numerical etudy of thick spray models". I did my PhD at [CEA](https://www.cea.fr/english/Pages/Welcome.aspx) in Bruyères-le-Châtelat and at [Laboratoire Jacques Louis Lions](https://www.ljll.math.upmc.fr/fr/?lang=fr) (Sorbonne Université) in Paris under the supervision of [Bruno Després](https://www.ljll.math.upmc.fr/despres/) (Sorbonne Université) and Christophe Buet (CEA). 
